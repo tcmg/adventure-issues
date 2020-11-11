@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+**Game URL**
+The URL where you discovered the issue, this should contain X and Y coordinates
+
+**Area**
+Where you encountered the problem (e.g. Web Vitals Room, Firebase room)
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
